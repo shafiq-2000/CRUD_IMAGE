@@ -1,0 +1,4 @@
+folder theke image delete korar khetere just 3t step add korte hbe:
+->image_pic=<?php echo $row['image']  ?> delete buttona a avabe dorte hbe 
+->$image = $_GET['image_pic']; edit page a id k jevabe dora hoise oi same vabe recevie kora lagbe image khetere
+->condition er vetor dite hbe- unlink("imgFolder/$image"); 
